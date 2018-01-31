@@ -12,13 +12,14 @@ An Elixir/Phoenix application with GraphQL
 
 * Navigate to localhost:5000/graphiql to view the graphiql UI
 * Check out the docs to view the auto-generated documentation
-* Run a query for all links with
-  {% highlight elixir %}
-  query{
-  allLinks {
-  id
-  description
-  url
-  }
-  }
-  {% endhighlight %}
+* Run a query for all links with:
+
+{% highlight elixir %}
+query{
+allLinks {
+id
+description
+url
+}
+}
+{% endhighlight %}
