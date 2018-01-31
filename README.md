@@ -14,12 +14,12 @@ An Elixir/Phoenix application with GraphQL
 * Check out the docs to view the auto-generated documentation
 * Run a query for all links with:
 
-{% highlight elixir %}
-query{
-allLinks {
-id
-description
-url
-}
-}
-{% endhighlight %}
+```
+    query{
+      allLinks {
+        id
+        description
+        url
+      }
+    }
+```
