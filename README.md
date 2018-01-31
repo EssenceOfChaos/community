@@ -1,6 +1,6 @@
 # Community
 
-An Elixir/Phoenix application with GraphQL
+An Elixir/Phoenix application with GraphQL. View [screenshot](https://github.com/EssenceOfChaos/community/blob/master/assets/images/screenshot.png)
 
 ## Use this implementation
 
